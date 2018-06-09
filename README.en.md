@@ -1,5 +1,5 @@
 # Language
-  [中文](https://github.com/StephenKe/we-clone/edit/master/README.md)
+  [中文](https://github.com/StephenKe/we-clone/tree/master)
 # we-clone
 A tool for deploying multiple weapp version.
 # Description
