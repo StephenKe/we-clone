@@ -1,11 +1,12 @@
 # we-clone
 一个为方案提供商部署多客户版本小程序的工具
 # Description
-高性能按需clone，运行后终端显示
+高性能按需clone，运行后开始监测配置路径下的文件改动同时在当前目录下生成 file-changed.txt 文件，该文件记录开发过程中所有文件改动记录。
+终端显示
 ```
 build ? (.y/.n)
 ```
-终端输入  .y  确认开始生成文件
+终端输入 .y 确认生成文件且删除 file-changed.txt 文件
 # Install
 `$ npm install we-clone`
 # Usage
