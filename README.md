@@ -1,5 +1,5 @@
 # Language
-  [English](https://github.com/StephenKe/we-clone/README.en.md/tree/master)
+  [English](https://github.com/StephenKe/we-clone/blob/master/README.en.md)
 # we-clone
 一个为方案提供商部署多客户版本小程序的工具
 # Description
