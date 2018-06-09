@@ -22,6 +22,8 @@ new WeClone({
   },
   // 监测目录，默认为''
   path: './test',
+  // 可选项。监测的文件类型，默认为['js', 'json', 'wxss', 'wxml', 'png']
+  rules: [],
   // 可选项，配置自定义clone的文件路径，实例为./test/app.js & ./test/config.js
   // preReplace: 需要替换的内容
   // replace: 替换后的内容，用'{{}}'包裹替换字段，字段名与customer对应
