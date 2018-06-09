@@ -13,6 +13,7 @@ module.exports = function WeClone(obj) {
     if (obj.replaceFiles) {
         let temp = [];
         for (let x in obj.replaceFiles) {
+            x = x.replace(/^((\/)|(\.\/))|(\/)$/, '').replace(/^((\/)|(\.\/))|(\/)$/, '')
             temp.push([x, obj.replaceFiles[x]])
         }
         this.replaceFiles = new Map(temp);
