@@ -1,6 +1,6 @@
 {
   "name": "we-clone",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "一个为方案提供商部署多客户版本小程序的工具",
   "main": "index.js",
   "scripts": {
