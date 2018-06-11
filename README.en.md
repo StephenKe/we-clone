@@ -36,7 +36,7 @@ new WeClone({
       replace: 'CONSTANT.ID = {{id}}'
     },
     'config.js': {
-      preReplace: 'https://cupboard-admin.adonging.com',
+      preReplace: 'https://xxx.com',
       replace: '{{host}}'
     }
   }
