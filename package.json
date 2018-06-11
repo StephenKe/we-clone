@@ -1,6 +1,6 @@
 {
   "name": "we-clone",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "一个为方案提供商部署多客户版本小程序的工具",
   "main": "index.js",
   "scripts": {
@@ -16,6 +16,11 @@
     "weapp",
     "tool"
   ],
+  "homepage": "https://github.com/StephenKe/we-clone",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/StephenKe/we-clone"
+  },
   "author": "ke",
   "license": "MIT"
 }
